@@ -18,7 +18,7 @@
 		width: 100%;
 		z-index: _misc(z-index-base);
 
-		h1 {
+		h1, p {
 			@include vendor('transition', (
 				'opacity #{_duration(transition)} ease-in-out',
 				'visibility #{_duration(transition)}'
@@ -81,7 +81,7 @@
 		&.alt {
 			background-color: transparent;
 
-			h1 {
+			h1, p {
 				opacity: 0;
 				visibility: hidden;
 			}
