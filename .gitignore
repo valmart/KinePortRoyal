@@ -225,3 +225,6 @@ $RECYCLE.BIN/
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
 
+#SCSS#
+/assets/.sass-cache/*
+/assets/sass-cache/*
