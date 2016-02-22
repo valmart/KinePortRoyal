@@ -1,4 +1,4 @@
-@import url(font-awesome.min.css);
+	@import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic");
 /*
 	Solid State by HTML5 UP
@@ -1994,9 +1994,8 @@ button,
   margin: 0 0 2em 0; }
   .features article {
     padding: 1.75em 1.75em 0.1em 1.75em ;
-    background-color: #353849;
     border-radius: 5px;
-    margin: 1.5em 3em 1.5em 0;
+    margin: 0.25em 3em 0.25em 0;
     width: calc(50% - 1.5em); }
     .features article:nth-child(2n) {
       margin-right: 0; }
